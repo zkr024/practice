@@ -7,3 +7,14 @@
 .title, .underT {
     text-align: center;
 }
+
+.image{
+    display: flex;
+    justify-content: center;
+    
+    
+}
+img{
+    width: 500px;
+    height: auto;
+}
