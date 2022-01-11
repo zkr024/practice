@@ -33,3 +33,14 @@ img{
     height: auto;
     margin-top: 50px;
 }
+
+.content{
+    background-color:rgb(168, 159, 159);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.information{
+    font-family: sans-serif;
+}
