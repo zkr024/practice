@@ -1,0 +1,9 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+.title, .underT {
+    text-align: center;
+}
