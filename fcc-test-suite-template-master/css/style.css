@@ -6,7 +6,7 @@
     align-items: center;
 }
 
-.title, .underT {
+#title, .underT {
     text-align: center;
 }
 
@@ -20,7 +20,7 @@
     color: white;
 }
 
-.image{
+#img-div{
     display: flex;
     justify-content: center;
     flex-direction: column;
@@ -28,10 +28,11 @@
     
     
 }
-img{
+#image{
     width: 500px;
     height: auto;
     margin-top: 50px;
+    flex-shrink: 1;
 }
 
 .content{
@@ -43,4 +44,8 @@ img{
 
 .information{
     font-family: sans-serif;
+}
+
+#tribute-info{
+    font-size: 30px;
 }
