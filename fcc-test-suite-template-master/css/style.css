@@ -2,10 +2,22 @@
     display: flex;
     justify-content: space-between;
     padding: 20px;
+    background: rgb(168, 159, 159);
+    align-items: center;
 }
 
 .title, .underT {
     text-align: center;
+}
+
+.logo{
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.button {
+    background-color: rgb(77, 77, 124);
+    color: white;
 }
 
 .image{
